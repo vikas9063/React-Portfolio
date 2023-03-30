@@ -154,21 +154,21 @@ export const phoneData='+91 9063669981';
 
 export const galleryImagesData = [
     {
-      img: 'https://images.pexels.com/photos/1779487/pexels-photo-1779487.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+      img: 'https://scontent.fhyd1-2.fna.fbcdn.net/v/t1.6435-9/36312995_1428659677279968_1123370789580570624_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_ohc=ukOujzlwCxMAX-hwxFR&_nc_ht=scontent.fhyd1-2.fna&oh=00_AfBSbqcISjNKZ_inHgVAGfEPM4vgqigQfx3TZzxSvVvR8A&oe=644C74D2'
     },
     {
-      img: "https://images.pexels.com/photos/3861458/pexels-photo-3861458.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      img: "https://scontent.fhyd1-4.fna.fbcdn.net/v/t31.18172-8/21083399_1203209666491638_2018872851869984083_o.jpg?_nc_cat=102&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=ipnh2o0ca1EAX_-oEdN&_nc_ht=scontent.fhyd1-4.fna&oh=00_AfAbywOhyeYtE5NfiQD8nVLupcUbeBoMPp68zQpx3QgCBg&oe=644C800D"
     },
     {
-      img: "https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      img: "https://scontent.fhyd1-5.fna.fbcdn.net/v/t31.18172-8/20280494_1181907905288481_7837981333137055631_o.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=WfaSGQI7-RUAX8TjTfa&_nc_ht=scontent.fhyd1-5.fna&oh=00_AfAA7wnf0tYO-kcYL4QnLpnKgowDyCiu0Bzq7a2hI6TyPQ&oe=644C8EF1"
     },
     {
-      img: "https://images.pexels.com/photos/1194713/pexels-photo-1194713.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      img: "https://scontent.fhyd1-2.fna.fbcdn.net/v/t1.18169-9/13680498_902627829883158_7027336157766264010_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=174925&_nc_ohc=L-IvpP1uVjEAX9FN5G4&_nc_ht=scontent.fhyd1-2.fna&oh=00_AfDY71syVbnRQ9ZkYAKcIge5dbve9n_wmheu0eFYMUfhMQ&oe=644C7EF4"
     },
     {
-      img: "https://images.pexels.com/photos/39284/macbook-apple-imac-computer-39284.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      img: "https://scontent.fhyd1-5.fna.fbcdn.net/v/t1.18169-9/23472967_1252355701577034_7370563976437773750_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=0TFXv5YX2n0AX9UFNKN&_nc_ht=scontent.fhyd1-5.fna&oh=00_AfAi8LSysfJYqoNSBlz_ZZIh-vse3kE5nb6nS-kpEx7bEg&oe=644C7CB2"
     },
     {
-      img: "https://images.pexels.com/photos/1712/sunglasses-apple-iphone-desk.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      img: "https://scontent.fhyd1-5.fna.fbcdn.net/v/t1.18169-9/14720557_961250034020937_3681900157404266747_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=19026a&_nc_ohc=pKzoB5z45wIAX85ll1q&_nc_ht=scontent.fhyd1-5.fna&oh=00_AfBZHIxvaEQ4YvqLwSwOlsFFnxwYrSFSADLg3MUK75WMTQ&oe=644C9334"
     }
   ];
